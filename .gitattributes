@@ -1,0 +1,4 @@
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/Bee/Android filter=lfs diff=lfs merge=lfs -text
+Library/Bee/artifacts/Android filter=lfs diff=lfs merge=lfs -text
+Library/Bee/artifacts/ filter=lfs diff=lfs merge=lfs -text

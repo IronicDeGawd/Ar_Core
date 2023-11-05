@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="abesit" size="0.500000 0.500000" />
+    <ImageTarget name="Optimized-logo_final" size="0.100000 0.095541" />
+  </Tracking>
+</QCARConfig>
