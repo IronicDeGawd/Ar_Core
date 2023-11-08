@@ -1530,7 +1530,6 @@ GameObject:
   - component: {fileID: 675489843}
   - component: {fileID: 675489842}
   - component: {fileID: 675489841}
-  - component: {fileID: 675489844}
   - component: {fileID: 675489845}
   m_Layer: 5
   m_Name: hoveringTitle
@@ -1622,18 +1621,6 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
---- !u!114 &675489844
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 675489839}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 800b845a24f445e48b5fc2d2bf1a2502, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &675489845
 MonoBehaviour:
   m_ObjectHideFlags: 0
