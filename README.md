@@ -1,33 +1,33 @@
-# Ar_Core
-AR branding and marketing tools
+# Ar_nised
+AR branding and marketing tool.
 
 ## Problem Statment 
-* Lack of Engaging Branding:
+* __Lack of Engaging Branding:__
 
 Many businesses struggle to create interactive and engaging branding experiences for customers.
 
-* Limited Data Insights:
+* __Limited Data Insights:__
 
 Businesses lack the tools to gather real-time data insights, hindering their ability to measure and optimize branding strategies effectively.
 
-* Untapped AR Potential:
+* __Untapped AR Potential:__
 
 The untapped potential of augmented reality for marketing and branding results in missed opportunities for businesses of all sizes.
 
-* Inaccessible AR Solutions:
+* __Inaccessible AR Solutions:__
 
 Small enterprises often face challenges accessing and affording AR marketing and branding solutions, limiting their ability to harness this technology effectively.
 
 ## Proposed Solution
-* Interactive AR Branding:
+* __Interactive AR Branding:__
 
 Our solution provides easy-to-use tools for businesses to create interactive augmented reality branding experiences that engage customers.
 
-* Data-Driven Insights:
+* __Data-Driven Insights:__
 
 We provide real-time data analytics and insights, enabling businesses to measure, optimize, and improve their branding strategies effectively.
 
-* Unlocking AR Potential:
+* __Unlocking AR Potential:__
 
 Our solution unlocks the full potential of AR marketing and branding, making this technology accessible and affordable for businesses of all sizes.
  
@@ -36,9 +36,8 @@ Our solution unlocks the full potential of AR marketing and branding, making thi
 
 ## Team Member Details
 
-* Aditya Srivastava
-
-* Ashiya Rana
+* [Aditya Srivastava](www.linkedin.com/in/aditya-srivastava-ironic/ "Linkedin") 
+* [Ashiya Rana](https://www.linkedin.com/in/ashiya-rana-8ba667251/ "Linkedin")
 
 <img src="https://github.com/IronicDeGawd/Ar_Core/assets/91710612/f249ec27-fc75-4642-829a-3ed4ca01e536" width="250">
 
