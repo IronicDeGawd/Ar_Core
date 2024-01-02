@@ -30,9 +30,6 @@ We provide real-time data analytics and insights, enabling businesses to measure
 * __Unlocking AR Potential:__
 
 Our solution unlocks the full potential of AR marketing and branding, making this technology accessible and affordable for businesses of all sizes.
- 
-## Presentation
-[AR-nised.pptx](https://github.com/IronicDeGawd/Ar_Core/files/13258988/AR-nised.pptx)
 
 ## Team Member Details
 
